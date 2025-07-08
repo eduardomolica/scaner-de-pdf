@@ -18,4 +18,4 @@ O programa faz o seguinte:
 
 ## 🎤 Apresentação (HTML Slide)
 
-[👉 Slides de Apresentação](https://ramomsouza07.github.io/scannerpdf/slides.html)
+[👉 Slides de Apresentação](https://eduardomolica.github.io/scaner-de-pdf/slides.html)
